@@ -45,7 +45,7 @@ span {
     display: block;
     width: 9px;
     height: 100%;
-    background: black;
+    background:#6f6f89;
     position: absolute;
     animation: audio-wave 1.5s infinite ease-in-out;
 }
@@ -97,6 +97,7 @@ nav {
 }
 
 .introduction {
+
 margin: 0 auto;
 }
 
