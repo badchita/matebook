@@ -32,13 +32,6 @@ footer {
     display: flex;
 }
 
-.logo-container {
-    border: 1px solid white;
-    margin: 0 auto;
-    width: 200px;
-    height: 100%;
-
-}
 
 .logo {
     width: 100px;
@@ -104,7 +97,7 @@ nav {
 }
 
 .introduction {
-    flex: 1;
+margin: 0 auto;
 }
 
 .intro-text {
@@ -139,7 +132,10 @@ nav {
 }
 
 .logo-container{
+    margin: 0 auto;
     height: 100px;
+    filter:drop-shadow(0px 5px 3px black);
+    animation: drop 1.5s ease;
 }
 
 ul {

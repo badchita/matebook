@@ -35,15 +35,11 @@
             <section class="presentation">
                 <div class="introduction">
                     <div class="intro-text">
-                        <h1>Laptop for the future</h1>
+                        <h1>Sounds On</h1>
                         <p>
-                            The new 14 inch bezeless display offering a 4k
-                            display wtih touch screen
+                            sound wave lines animation
                         </p>
                     </div>
-                </div>
-                <div class="cover">
-                    <img src="matebook.png" alt="matebook" />
                 </div>
                 <div class="logo-container">
                     <div class="logo">
